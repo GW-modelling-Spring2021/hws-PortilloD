@@ -1,0 +1,1 @@
+Correct figures look good!  The cross section ... I think that you are going left to right instead of top to bottom.  For the Keq just remember to weight by the number of cells of each type and then use the harmonic mean formula.
