@@ -1,0 +1,1 @@
+Nice work, Dalia - 95%!  Everything was excellent ... but, I'd like you to think a LITTLE MORE about the last question.  I am trying to get you to see that you can pose hypotheses and then test them directly with a model.
